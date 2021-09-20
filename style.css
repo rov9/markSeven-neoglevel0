@@ -23,8 +23,8 @@ h1{
 
 #user-input{
     display:block;
-    
-    width: 60%;
+    border-radius: 1rem;
+    width: 50%;
     padding: 1rem;
     border: 1px solid var(#9CA3AF);
     
@@ -42,10 +42,11 @@ button{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 textarea{
-    width:65%;
+    width:50%;
     margin: auto;
     display: block;
     padding: 1rem;
+    border-radius: 1rem;
 }
 footer{
     background-color: #A16207;
