@@ -18,32 +18,43 @@ body{
 h1{
     background-color: #D9F99D;
     padding: 3rem;
+    margin: 0rem;
 }
 
-input{
+#user-input{
     display:block;
-    margin:auto;
+    
     width: 60%;
     padding: 1rem;
+    border: 1px solid var(#9CA3AF);
+    
 }
 
 button{
-    width: 15%;
+    width: 11%;
     font-family:'Glory', sans-serif;
     font-weight: 700;
     font-size: medium;
     margin-top: 1rem;
-    outline: #333333;
+    background-color: #A16207;
+    border: 0.5px solid var(#9CA3AF);
+    border-radius:10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
-
+textarea{
+    width:65%;
+    margin: auto;
+    display: block;
+    padding: 1rem;
+}
 footer{
-    background-color: rgb(0, 0, 0);
+    background-color: #A16207;
     padding: 4rem;
     margin:0rem;
 }
 
 footer,p{
-color:#D9F99D;
+color:#9CA3AF;
 }
 
 #span
