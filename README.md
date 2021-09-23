@@ -1,4 +1,4 @@
-Translate to Orcish 
+Translate to Pirate language
 Link-https://orcishtonge.netlify.app/
 Actions-
 1.Enter your text in English
