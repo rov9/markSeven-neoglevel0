@@ -16,7 +16,11 @@ body{
     font-family:'Glory', sans-serif;
 }
 h1{
+<<<<<<< HEAD
     background-image:"C:\Users\r3\OneDrive\Documents\GitHub\markSeven-neoglevel0\adventure.jpg";
+=======
+    background-image:"https://cdn.pixabay.com/photo/2017/07/22/11/46/adventure-2528477_1280.jpg";
+>>>>>>> 7a27d9bfdf0e76a4ed30b6406fe6641bc80ffd0e
     background-color: #D9F99D;
     padding: 3rem;
     margin: 0rem;
