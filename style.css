@@ -16,9 +16,16 @@ body{
     font-family:'Glory', sans-serif;
 }
 h1{
+    width: 65%;
     background-color: #D9F99D;
     padding: 3rem;
-    margin: 0rem;
+    margin: auto;
+    padding: 2.3rem;
+    background-image:url("adventure.jpg");
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
 }
 
 #user-input{
@@ -49,9 +56,17 @@ textarea{
     border-radius: 1rem;
 }
 footer{
-    background-color: #A16207;
-    padding: 4rem;
-    margin:0rem;
+    width:60%;
+    display: block;
+    margin: auto;
+    background-color: 
+#DBEAFE;
+    padding: 2.2rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+
 }
 
 footer,p{
