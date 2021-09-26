@@ -29,9 +29,10 @@ h1{
 }
 
 #user-input{
+    margin-top:1rem;
     display:block;
     border-radius: 1rem;
-    width: 50%;
+    width: 20%;
     padding: 1rem;
     border: 1px solid var(#9CA3AF);
     
@@ -49,11 +50,12 @@ button{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 textarea{
-    width:50%;
+    width:20%;
     margin: auto;
     display: block;
     padding: 1rem;
     border-radius: 1rem;
+    margin-bottom: 1rem;
 }
 footer{
     width:60%;
